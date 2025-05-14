@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+    height: 200px;
+
+    border-radius: 50%;
+}
+
+body {
+    width: 50vw;
+    margin: 0 auto;
+}

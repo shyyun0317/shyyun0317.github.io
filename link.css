@@ -1,0 +1,22 @@
+a.link {
+    display: block;
+    border: 3px solid rgb(170, 76, 76);
+    
+    font-size: 32px;
+    padding: 20px;
+    border-radius: 20px;
+
+    text-decoration: none;
+    color:blueviolet;
+
+    transition: 0.4s;
+
+    margin: 10px 0;
+}
+a.link:hover {
+    background-color:antiquewhite;
+}
+img {
+    width: 32px;
+    vertical-align:middle;
+}
